@@ -6,6 +6,7 @@ import create_data_table_queries as cdtq
 import populate_data_tables_queries as pdtq
 import read_data_tables_queries as rdtq
 import update_queries as uq
+import delete_query as dq
 
 
 
@@ -61,11 +62,10 @@ def read_query(connection, query):
 # call function to establish connection from main.py to MySQL
 connection = create_server_connection("localhost", "root","student", "school")
 
-execute_query(connection, uq.update_teacher_table)
+execute_query(connection, dq.delete_course)
 
-print("Information for Teacher Table: ")
-teacherDataTable = read_query(connection, rdtq.display_teacher_table_information)
-for teacherInformation in teacherDataTable:
-    print(teacherInformation)
+print("Information for Course Table: ")
+courseDataTable = read_query(connection, rdtq.display_course_table_information)
+for courseInformation in courseDataTable:
+    print(courseInformation)
 print()
-
