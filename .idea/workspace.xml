@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77cde1c1-8914-422f-8b09-6f51a94b66c9" name="Changes" comment="Reading Data from Data Tables from MySQL in main.py">
-      <change afterPath="$PROJECT_DIR$/update_queries.py" afterDir="false" />
+    <list default="true" id="77cde1c1-8914-422f-8b09-6f51a94b66c9" name="Changes" comment="Removed the 20th course from &quot;course&quot; table">
+      <change afterPath="$PROJECT_DIR$/readMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +159,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719433870246</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated Teacher Table Value: Stefanie last name is now &quot;Williams&quot;">
+      <option name="closed" value="true" />
+      <created>1719433948287</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719433948287</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Removed the 20th course from &quot;course&quot; table">
+      <option name="closed" value="true" />
+      <created>1719434001244</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719434001244</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,6 +186,8 @@
     <MESSAGE value="Created Data Tables For DB." />
     <MESSAGE value="Populated Data Tables." />
     <MESSAGE value="Reading Data from Data Tables from MySQL in main.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reading Data from Data Tables from MySQL in main.py" />
+    <MESSAGE value="Updated Teacher Table Value: Stefanie last name is now &quot;Williams&quot;" />
+    <MESSAGE value="Removed the 20th course from &quot;course&quot; table" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed the 20th course from &quot;course&quot; table" />
   </component>
 </project>
