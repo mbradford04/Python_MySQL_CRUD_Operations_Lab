@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77cde1c1-8914-422f-8b09-6f51a94b66c9" name="Changes" comment="Installed necessary dependencies/libraries">
-      <change afterPath="$PROJECT_DIR$/create_database_query.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+    <list default="true" id="77cde1c1-8914-422f-8b09-6f51a94b66c9" name="Changes" comment="Established Connection From Pycharm to MySQL. Created DB School.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_data_table_queries.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_data_table_queries.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,13 +128,22 @@
       <option name="project" value="LOCAL" />
       <updated>1719433323795</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Established Connection From Pycharm to MySQL. Created DB School.">
+      <option name="closed" value="true" />
+      <created>1719433642304</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719433642304</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Created Environment" />
     <MESSAGE value="Installed necessary dependencies/libraries" />
-    <option name="LAST_COMMIT_MESSAGE" value="Installed necessary dependencies/libraries" />
+    <MESSAGE value="Established Connection From Pycharm to MySQL. Created DB School." />
+    <option name="LAST_COMMIT_MESSAGE" value="Established Connection From Pycharm to MySQL. Created DB School." />
   </component>
 </project>

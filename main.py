@@ -1,7 +1,9 @@
+
 import mysql.connector
 from mysql.connector import Error
 
 import create_database_query as cdq
+import create_data_table_queries as cdtq
 
 # create function to establish connection from main.py to MySQL
 def create_server_connection(host_name, user_name, user_password, db_name):
@@ -41,3 +43,10 @@ def execute_query(connection, query):
 
 # call function to establish connection from main.py to MySQL
 connection = create_server_connection("localhost", "root","student", "school")
+
+
+#call execute function to create data tables
+execute_query(connection, cdtq.create_teacher_table)
+execute_query(connection, cdtq.create_client_table)
+execute_query(connection, cdtq.create_course_table)
+execute_query(connection,cdtq.create_participant_table)
