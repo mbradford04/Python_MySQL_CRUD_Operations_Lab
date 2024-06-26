@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77cde1c1-8914-422f-8b09-6f51a94b66c9" name="Changes" comment="Populated Data Tables.">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="77cde1c1-8914-422f-8b09-6f51a94b66c9" name="Changes" comment="Reading Data from Data Tables from MySQL in main.py">
+      <change afterPath="$PROJECT_DIR$/update_queries.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719433781418</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Reading Data from Data Tables from MySQL in main.py">
+      <option name="closed" value="true" />
+      <created>1719433870246</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719433870246</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,6 +169,7 @@
     <MESSAGE value="Established Connection From Pycharm to MySQL. Created DB School." />
     <MESSAGE value="Created Data Tables For DB." />
     <MESSAGE value="Populated Data Tables." />
-    <option name="LAST_COMMIT_MESSAGE" value="Populated Data Tables." />
+    <MESSAGE value="Reading Data from Data Tables from MySQL in main.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reading Data from Data Tables from MySQL in main.py" />
   </component>
 </project>
