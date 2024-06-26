@@ -1,0 +1,1 @@
+create_database_query = "CREATE DATABASE school"
